@@ -1,2 +1,2 @@
 #!/bin/bash
-ng com.martiansoftware.nailgun.builtins.NGServerStats
+ng ng-stats
