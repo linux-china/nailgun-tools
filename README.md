@@ -7,3 +7,7 @@ NailGun tools to include some features such as groovy integration.
 
     $ ng-groovy-server
     $ ng-groovy hello.groovy
+
+### Change List
+
+    * 0.0.1: init version with groovy support
