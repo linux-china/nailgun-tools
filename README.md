@@ -1,7 +1,7 @@
 Nailgun Tools
 =============
 
-Nailgun tools to include some features such as groovy integration.
+Nailgun tools is a Nailgun scripts to include some features such as groovy integration.
 
 ### Groovy Integration
 
