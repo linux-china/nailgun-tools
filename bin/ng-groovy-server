@@ -1,0 +1,5 @@
+#!/bin/bash
+
+app_dir=`dirname $0`
+
+java  -cp ${app_dir}/../lib/groovy-all-2.1.2.jar:${app_dir}/../lib/nailgun-server-0.9.1 -server com.martiansoftware.nailgun.NGServer
